@@ -1,0 +1,29 @@
+PODS:
+  - AMap3DMap (5.7.0):
+    - AMapFoundation (~> 1.4)
+  - AMapFoundation (1.4.3)
+  - AMapLocation (2.6.0):
+    - AMapFoundation (~> 1.4)
+  - AMapSearch (5.7.0):
+    - AMapFoundation (~> 1.4)
+  - BaiduMapKit (3.4.2)
+  - SDAutoLayout (2.2.0)
+
+DEPENDENCIES:
+  - AMap3DMap
+  - AMapLocation
+  - AMapSearch
+  - BaiduMapKit
+  - SDAutoLayout
+
+SPEC CHECKSUMS:
+  AMap3DMap: 97afc57b88628237d916991ac31795eb7bde3f63
+  AMapFoundation: 973682cfe60b92efd73a8ef8f1144fa0fa8e1296
+  AMapLocation: 55116a2c8956eab7550cbb56e989aa5cdcc424e3
+  AMapSearch: 314f75e9ce282b53dbf66455efa416c39f12b5b1
+  BaiduMapKit: f61b19ecf07a3f2deede72b221b366bf698739ed
+  SDAutoLayout: c5509e77ae75735d9a39f7bc83dba6d3f75d49d8
+
+PODFILE CHECKSUM: 213f9b7d43424361d487a6ae1251b44e598113ff
+
+COCOAPODS: 1.3.1
